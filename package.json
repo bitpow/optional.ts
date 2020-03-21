@@ -1,5 +1,5 @@
 {
-  "name": "optional.ts",
+  "name": "@bitpow/optional.ts",
   "version": "1.0.0",
   "description": "Optional monad implementation in TypeScript",
   "main": "lib/index.js",
